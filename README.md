@@ -1,6 +1,13 @@
 # Robotic-Arm
-Brief description: 
-The project 3D Robotic Helper Arm aims to help the elderly using Internet of Things and robotics concept. We have build a robot that has a carrier attached to it that will follow the old people to carry their day to day belongings. And an addition arm to pick up things that have fallen. The carrier robot uses Arduino and motion sensors while the arm uses servo motors and an Arduino as well. The capacity of the carrier is around 500gms and for the arm 500gms approximately.
+Description of the Project:
+1. Ability to detect individual packages from a group of packages
+2. Pick a package from that group and drop it in the Drop-Zone
+3. Shipment barcode should be present on top when dropped in the Drop-Zone
 
-USP: Target Following Device 
-Our project Target following device, was designed as an object  carrier especially for the people who are not capable of carrying weighted objects. Our project component comprises sensors which could detect the person to whom our device is following. As the person moves ahead this device would follow the foot and could carry their luggage and belongings along with it.
+System Specifications:
+● A picking arm
+● A picking methodology for end effector such as Claw/clamp/Gripper/Suction grasp (Advance
+gripping method like force feedback grasp/haptic feedback grasp can also be used)
+● You may use one or multiple vision systems (or) a combination of vision and sensor based
+systems
+● Your system can be connected to a live PC for processing inputs

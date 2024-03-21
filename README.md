@@ -11,4 +11,4 @@ gripping method like force feedback grasp/haptic feedback grasp can also be used
 ● You may use one or multiple vision systems (or) a combination of vision and sensor based
 systems
 ● Your system can be connected to a live PC for processing inputs
-![WhatsApp Image 2023-10-25 at 04 23 27_5061736c](https://github.com/Aditya-Chopra30/Robotic-Arm/assets/110564061/a9b43a70-2439-4e7a-8176-be3e71a69879)
+
